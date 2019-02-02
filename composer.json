@@ -1,5 +1,5 @@
 {
-    "name": "sebastianthiel/DI",
+    "name": "sebastianthiel/di",
     "description": "a simple DI",
     "keywords": ["php", "dependency-injector", "DI"],
     "type": "library",
